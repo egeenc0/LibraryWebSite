@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|c:\\users\\egeen\\source\\repos\\ilkuygulama11subat\\ilkuygulama11subat\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|solutionrelative:ilkuygulama11subat\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|c:\\users\\egeen\\source\\repos\\ilkuygulama11subat\\ilkuygulama11subat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|solutionrelative:ilkuygulama11subat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|c:\\users\\egeen\\source\\repos\\ilkuygulama11subat\\ilkuygulama11subat\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|solutionrelative:ilkuygulama11subat\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|c:\\users\\egeen\\source\\repos\\ilkuygulama11subat\\ilkuygulama11subat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|solutionrelative:ilkuygulama11subat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|c:\\users\\egeen\\source\\repos\\ilkuygulama11subat\\ilkuygulama11subat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|solutionrelative:ilkuygulama11subat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|c:\\users\\egeen\\source\\repos\\ilkuygulama11subat\\ilkuygulama11subat\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|solutionrelative:ilkuygulama11subat\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|c:\\users\\egeen\\source\\repos\\ilkuygulama11subat\\ilkuygulama11subat\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|solutionrelative:ilkuygulama11subat\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|c:\\users\\egeen\\source\\repos\\ilkuygulama11subat\\ilkuygulama11subat\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2E26A8-BB47-B62B-4CD1-92AF301CB6FF}|IlkUygulama11Subat\\IlkUygulama11Subat.csproj|solutionrelative:ilkuygulama11subat\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "IlkUygulama11Subat\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "IlkUygulama11Subat\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-18T15:07:53.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IlkUygulama11Subat\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IlkUygulama11Subat\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T15:03:04.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "IlkUygulama11Subat\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "IlkUygulama11Subat\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T14:55:35.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "IlkUygulama11Subat\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "IlkUygulama11Subat\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:53:05.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "IlkUygulama11Subat\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Models\\Movie.cs",
+              "RelativeToolTip": "IlkUygulama11Subat\\Models\\Movie.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:46:41.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IlkUygulama11Subat\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IlkUygulama11Subat\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T08:30:20.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController1.cs",
+              "DocumentMoniker": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Controllers\\HomeController1.cs",
+              "RelativeDocumentMoniker": "IlkUygulama11Subat\\Controllers\\HomeController1.cs",
+              "ToolTip": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Controllers\\HomeController1.cs",
+              "RelativeToolTip": "IlkUygulama11Subat\\Controllers\\HomeController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T08:06:11.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Program.cs",
+              "RelativeDocumentMoniker": "IlkUygulama11Subat\\Program.cs",
+              "ToolTip": "C:\\Users\\egeen\\source\\repos\\IlkUygulama11Subat\\IlkUygulama11Subat\\Program.cs",
+              "RelativeToolTip": "IlkUygulama11Subat\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T07:53:38.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
